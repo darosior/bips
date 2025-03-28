@@ -1,13 +1,12 @@
 ```
   BIP: ?
+  Layer: Consensus (soft fork)
   Title: Consensus Cleanup
-  Author: Antoine Poinsot <mail@antoinep.com>
-          Matt Corallo <bips@bluematt.me>
-  Comments-Summary: No comments yet.
-  Comments-URI: https://github.com/bitcoin/bips/wiki/Comments:BIP-?
+  Authors: Antoine Poinsot <mail@antoinep.com>
+           Matt Corallo <bips@bluematt.me>
   Status: Draft
-  Type: Standards Track
-  Created: 2025-03-17
+  Type: Specification
+  Created: ?
   License: CC0-1.0
 ```
 
